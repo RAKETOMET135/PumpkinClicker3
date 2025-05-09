@@ -1,18 +1,18 @@
 Videos that were used
 
-**Top 50 Italian brainrot - https://www.youtube.com/watch?v=_ywCHL3u72A**
+**National Meme, top 50 italian brainrot animals - https://www.youtube.com/watch?v=_ywCHL3u72A**
 
 
-**Italian brainrot translation - https://www.youtube.com/watch?v=h4b4H5qgoFw**
+**Fluffy Meme, Italian Brainrot Animals Translated Versions - https://www.youtube.com/watch?v=h4b4H5qgoFw**
 
 
-**Goofy sounds - https://www.youtube.com/watch?v=NPbWhDaESds**
+**AUDIO, All Goofy Ahh Sound Effects - https://www.youtube.com/watch?v=NPbWhDaESds**
 
 
-**Top 5 Scary - https://www.youtube.com/shorts/qVz---KOtPA**
+**Barsik-ro9cz, Top 5 Scariest Jumpscares - https://www.youtube.com/shorts/qVz---KOtPA**
 
 
-**Italian brainrot in gym - https://www.youtube.com/shorts/ulN6FU9PrnA**
+**PatapimAi, Italian brainrot in gym - https://www.youtube.com/shorts/ulN6FU9PrnA**
 
 
-**Dog and Capybara - https://www.youtube.com/watch?v=SCwcJsBYL3o**
+**Crazy Cody's Creatures, Dog and Capybara - https://www.youtube.com/watch?v=SCwcJsBYL3o**
