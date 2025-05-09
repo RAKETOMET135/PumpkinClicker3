@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pumpkin Clicker 3</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button id="click" style="z-index: 500;">
+        <img id="click-image" src="images/DefaultPumpkin.png" alt="">
+    </button>
+
+    <p id="counter" style="user-select: none; z-index: 500;">1 Pumpkin</p>
+
+    <div id="upgrades" style="z-index: 500;">
+        
+    </div>
+
+    <img id="background-image" src="images/Background.gif" style="width: 100%; position: absolute; translate: 0 -25%; filter: brightness(0.5); z-index: -600; visibility: hidden;" alt="">
+
+    <video id="ss" src="videos/SubwaySurfersGamePlay.mp4" loop muted style="user-select: none; z-index: 75; pointer-events: none; width: 500px; height: 500px; position: absolute; right: 2%; bottom: 2%; visibility: hidden;"></video>
+
+    <video id="ib" src="videos/ItalianBrainrot.mp4" loop muted style="z-index: 50; user-select: none; pointer-events: none; width: 500px; height: 500px; position: absolute; right: 2%; bottom: 2%; translate: 0 -300px; visibility: hidden;"></video>
+    <video id="ib2" src="videos/ItalianBrainrotTranslate.mp4" loop muted style="z-index: 50; user-select: none; pointer-events: none; width: 500px; height: 500px; position: absolute; left: 2%; top: 2%; visibility: hidden;"></video>
+
+    <video id="sfx" src="videos/Audio.mp4" loop style="user-select: none; pointer-events: none; width: 500px; height: 500px; position: absolute; right: 2%; bottom: 2%; translate: 0 -300px; visibility: hidden;"></video>
+
+    <video id="scary" src="videos/Top5Scary.mp4" loop muted style="z-index: 50; user-select: none; pointer-events: none; width: 500px; height: 500px; position: absolute; left: 15%; bottom: -12%; visibility: hidden;"></video>
+    <video id="gym" src="videos/ItalianGym.mp4" loop muted style="z-index: 50; user-select: none; pointer-events: none; width: 500px; height: 500px; position: absolute; right: 25%; bottom: -12%; visibility: hidden;"></video>
+
+    <video id="capybara" src="videos/Capybara.mp4" loop muted style="z-index: -555; user-select: none; pointer-events: none; width: 100%; position: absolute; left: 0; top: 0; visibility: hidden;"></video>
+
+    <img src="images/Lake.jpg" id="lake" style="z-index: 50000; position: absolute; left: 0; top: 0; width: 100%; visibility: hidden;" alt="">
+
+    <div id="credits" style="visibility: hidden;">
+        <p>Thanks for playing!</p>
+        <p>Top 50 Italian brainrot - https://www.youtube.com/watch?v=_ywCHL3u72A</p>
+        <p>Italian brainrot translation - https://www.youtube.com/watch?v=h4b4H5qgoFw</p>
+        <p>Goofy sounds - https://www.youtube.com/watch?v=NPbWhDaESds</p>
+        <p>Top 5 Scary - https://www.youtube.com/shorts/qVz---KOtPA</p>
+        <p>Italian brainrot in gym - https://www.youtube.com/shorts/ulN6FU9PrnA</p>
+        <p>Dog and Capybara - https://www.youtube.com/watch?v=SCwcJsBYL3o</p>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
