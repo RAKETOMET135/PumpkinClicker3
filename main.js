@@ -437,7 +437,7 @@ function setup(){
     mainButton.addEventListener("click", () => {
         let gain = 1
 
-        pumpkins += 1000
+        pumpkins += 1
 
         if (lockedData[0] > 1){
             pumpkins += lockedData[0] - 1
